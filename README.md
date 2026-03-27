@@ -1,2 +1,0 @@
-# Sistemas-inteligentes
-visión artificial
